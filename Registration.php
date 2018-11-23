@@ -1,1 +1,1 @@
-<?php echo "<h2><b> Coming Soon </b></h2>" ?>
+This is about to be published
